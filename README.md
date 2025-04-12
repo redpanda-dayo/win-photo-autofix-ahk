@@ -23,4 +23,5 @@ Please edit `autofix.ahk` before running it.
 imageDir := "E:\___DUMMY___\__auto_fix__"
 ```
 
-`This script will overwrite the images.`
+- `This script will overwrite the images.`
+- `Please back up your images before running this script.`
