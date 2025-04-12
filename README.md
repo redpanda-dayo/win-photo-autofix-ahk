@@ -2,6 +2,8 @@
 
 This script automatically applies the `Auto Enhance` effect to images using Microsoft Photos.
 
+https://github.com/user-attachments/assets/05665e5b-ba63-4ae7-8d35-a64e0439995f
+
 ## Requirements
 
 - [AutoHotkey](https://www.autohotkey.com/)
